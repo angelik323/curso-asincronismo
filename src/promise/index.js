@@ -31,4 +31,4 @@ countCows.then((result) => {
     console.log(error);
 }).finally(() => {
     console.log('Finally')
-})
+}) 
